@@ -2,4 +2,4 @@
 
 Vous pouvez télécharger ce mod gratuitement.
 
-[![Model_Sushi](./ImgSushi.png)()
+![Model_Sushi](./ImgSushi.png)
