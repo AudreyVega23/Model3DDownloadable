@@ -2,4 +2,4 @@
 
 Vous pouvez télécharger ce model gratuitement.
 
-![Model_Sushi](./ImgSushi.png)
+<img src="ImgSushi.png" alt="ModelImage3D" width="30%"/>
